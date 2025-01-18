@@ -48,49 +48,73 @@
     }
   ],
   "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    },
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
+   {
+     "name": "인앤인심리상담센터",
+     "position": "원장(상담심리전문가)",
+     "url": "",
+     "startDate": "2024-04",
+     "endDate": "Present"
+   },
+   {
+     "name": "서울시청년활동지원센터",
+     "position": "청년상담파트너",
+     "url": "",
+     "startDate": "2022-04", 
+     "endDate": "2022-09"
+   },
+   {
+     "name": "명지대학교 학생상담센터",
+     "position": "전임연구원",
+     "url": "",
+     "startDate": "2019-07",
+     "endDate": "2022-03"
+   },
+   {
+     "name": "에임메드 헬로마인드케어",
+     "position": "수석상담사",
+     "url": "",
+     "startDate": "2018-07",
+     "endDate": "2019-02"
+   },
+   {
+     "name": "서초구청소년상담복지센터",
+     "position": "CYS-Net 상담사",
+     "url": "",
+     "startDate": "2015-08",
+     "endDate": "2018-06"
+   },
+   {
+     "name": "명지대학교 학생상담센터",
+     "position": "인턴상담사",
+     "url": "",
+     "startDate": "2013-03",
+     "endDate": "2014-08"
+   }
+ ],
   
   "certificates": [
-    {
-      "name": "상담심리사 2급",
-      "date": "2018-01-01",
-      "issuer": "한국상담심리학회",
-      "url": "",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "청소년상담사 2급",
-      "date": "2018-01-01",
-      "issuer": "여성가족부",
-      "url": "",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "상담심리사 1급",
-      "date": "2018-01-01",
-      "issuer": "한국상담심리학회",
-      "url": "",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ]
+   {
+     "name": "상담심리사 1급",
+     "date": "2022-09-01",
+     "issuer": "한국상담심리학회",
+     "url": "",
+     "icon": "fa-solid fa-clipboard-check"
+   },
+   {
+     "name": "청소년상담사 2급", 
+     "date": "2017-06-23",
+     "issuer": "여성가족부",
+     "url": "",
+     "icon": "fa-solid fa-clipboard-check"
+   },
+   {
+     "name": "상담심리사 2급",
+     "date": "2014-09-01",
+     "issuer": "한국상담심리학회", 
+     "url": "",
+     "icon": "fa-solid fa-clipboard-check"
+   }
+ ]
   // "publications": [   
   //   {
   //     "name": "Zur Elektrody/namik bewegter Körper",
