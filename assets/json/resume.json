@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "조민경",
-    "label": "심리상담사",
+    "label": "상담심리사 1급, 한국상담심리학회 수퍼바이저",
     "image": "",
     "email": "mkjo.coun@gmail.com",
     // "phone": "-",
     // "url": "https://hellomkjo.github.io/",
-    "summary": "한국심리상담학회 수퍼바이저",
+    // "summary": "한국상담심리학회 수퍼바이저",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -25,7 +25,7 @@
   
   "education": [
     {
-      "institution": "명지대학교 일반대학원",
+      "institution": "🎓 명지대학교 일반대학원",
       "location": "Seoul",
       "url": "https://youth.mju.ac.kr/youth/index.do/",
       "area": "청소년지도학",
@@ -36,7 +36,7 @@
       // "courses": ["ㅇㅇㅇㅇ"]
     },
     {
-      "institution": "명지대학교",
+      "institution": "🎓 명지대학교",
       "location": "Seoul",
       "url": "https://youth.mju.ac.kr/youth/index.do/",
       "area": "청소년지도학",
