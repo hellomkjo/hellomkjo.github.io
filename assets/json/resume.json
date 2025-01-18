@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "조민경 (Min-kyung Jo)",
-    "label": "심리상당사",
+    "name": "조민경",
+    "label": "심리상담사",
     "image": "",
     "email": "mkjo.coun@gmail.com",
-    "phone": "-",
-    "url": "https://hellomkjo.github.io/",
+    // "phone": "-",
+    // "url": "https://hellomkjo.github.io/",
     "summary": "한국심리상담학회 수퍼바이저",
     "location": {
       "address": "2712 Broadway St",
@@ -26,17 +26,37 @@
   "education": [
     {
       "institution": "명지대학교 일반대학원",
-      "location": "서울",
-      "url": "https://www.uzh.ch/",
+      "location": "Seoul",
+      "url": "https://youth.mju.ac.kr/youth/index.do/",
       "area": "청소년지도학",
       "studyType": "석사",
-      "startDate": "2012-09-01",
-      "endDate": "2014-08-22",
-      "score": "10"
+      "startDate": "2012-09-",
+      "endDate": "2014-08-"
+      // "score": "10"
+      // "courses": ["ㅇㅇㅇㅇ"]
+    },
+    {
+      "institution": "명지대학교",
+      "location": "Seoul",
+      "url": "https://youth.mju.ac.kr/youth/index.do/",
+      "area": "청소년지도학",
+      "studyType": "학사",
+      "startDate": "2008-03-",
+      "endDate": "2012-08-"
+      // "score": "10"
       // "courses": ["ㅇㅇㅇㅇ"]
     }
   ],
   "work": [
+    {
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -80,11 +100,11 @@
   //     "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
   //   }
   // ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ]
+  // "references": [
+  //   {
+  //     "name": "Professor John Doe",
+  //     "icon": "fa-solid fa-laptop",
+  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+  //   }
+  // ]
 }
