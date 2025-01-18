@@ -100,3 +100,5 @@ jobs:
         with:
           folder: _site
           branch: main        # 배포할 브랜치를 main으로 지정
+          clean: true         # 배포 전 이전 파일들 정리
+          single-commit: true # 단일 커밋으로 유지
