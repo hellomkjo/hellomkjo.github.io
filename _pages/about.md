@@ -9,7 +9,7 @@ profile:
   image: mkjo.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <center><p><b><i>상담심리사 1급</i></b></p></center>
+    <center><p><b><i>상담심리사 (1급)</i></b></p></center>
     <center><p><b><i>한국상담심리학회 수퍼바이저</i></b></p></center>
     <center><p><b>- 조민경 -</b></p></center>
 
